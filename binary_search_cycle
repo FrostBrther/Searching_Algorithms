@@ -1,3 +1,5 @@
+#Binary search realisation using cycle 
+
 #Definition of binary search function
 def binary_search(item, list):
     low = 0 
