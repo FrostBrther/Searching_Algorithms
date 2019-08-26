@@ -1,4 +1,5 @@
-#Binary search realisation using cycle 
+#Binary search realisation using cycle on 
+#Python 3.0 +
 
 #Definition of binary search function
 def binary_search(item, list):
